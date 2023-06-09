@@ -1,11 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-There is a mess in the living room.
-
-A woman walks in.
-=======
-The woman cleans the mess in the living room.
->>>>>>> b1b3693 (The Living room is cleaned)
-=======
-The Living room is clean.
->>>>>>> 94baa1a (A clean Living room)
+A man walks into the living room and makes a mess.
